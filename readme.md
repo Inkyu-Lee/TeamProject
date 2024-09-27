@@ -25,8 +25,8 @@ CodeParm Stock Project는 투자자를 위한 주식 분석 플랫폼입니다. 
 
 | ![이인규](https://github.com/inkyu-lee.png?size=100) | ![심재영](https://github.com/ccatt94.png?size=100) | ![박현춘](https://github.com/hamjung6) | ![하태인](https://github.com/hataein54) |
 |:-------------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:------------------------------------:|
-|         [이인규](https://github.com/kimdev)          |      [심재영](https://github.com/leeanalyst)       |       [박현춘](https://github.com/hamjung6)        | [하태인](https://github.com/hataein54)  |
-|                      풀스택 개발                       |                     데이터 분석                      |                    UI/UX 디자인                    |               프로젝트 기획                |
+|         [이인규](https://github.com/inkyu-lee)          |      [심재영](https://github.com/ccatt94)       |       [박현춘](https://github.com/hamjung6)        | [하태인](https://github.com/hataein54)  |
+|                      풀스택 개발                       |                     풀스택 개발                      |                    풀스택 개발                    |               풀스택 개발               |
 
 </div>
 
