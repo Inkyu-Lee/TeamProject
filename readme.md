@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Inkyu-Lee/TeamProject)](https://github.com/codeparm/stock-project/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Inkyu-Lee/TeamProject)](https://github.com/codeparm/stock-project/issues)
 
-[프로젝트 소개](#-프로젝트-소개) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [시작하기](#-시작하기) • [기여하기](#-기여하기) • [라이선스](#-라이선스)
+[프로젝트 소개](#-프로젝트-소개) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [시작하기](#시작하기)
 
 </div>
 
@@ -72,4 +72,8 @@ CodeParm Stock Project는 열정적인 개발자들의 협력으로 만들어졌
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
+
+## 시작하기
+
+링크 - [ 미정 ]
 
