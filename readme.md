@@ -21,8 +21,6 @@ CodeParm Stock Project는 투자자를 위한 주식 분석 플랫폼입니다. 
 
 ## 👥 팀원 소개
 
-CodeParm Stock Project는 열정적인 개발자들의 협력으로 만들어졌습니다. 각 팀원의 GitHub 프로필을 확인해보세요!
-
 <div align="center">
 
 | ![이인규](https://github.com/inkyu-lee.png?size=100) | ![심재영](https://github.com/ccatt94.png?size=100) | ![박현춘](https://github.com/hamjung6) | ![하태인](https://github.com/hataein54) |
@@ -34,7 +32,9 @@ CodeParm Stock Project는 열정적인 개발자들의 협력으로 만들어졌
 
 우리 팀은 주니어 개발자로서 역량을 표출하고자 해당 프로젝트를 제작했습니다.
 
-- **이인규**: 프론트엔드와 백엔드 풀스택 개발은 맡았습니다.
+또한 CodeParm Stock Project는 열정적인 주니어 개발자들의 협력으로 만들어졌습니다. 각 팀원의 GitHub 프로필을 확인해보세요!
+
+- **이인규**: 프론트엔드와 백엔드 풀스택 개발 및 배포를 맡았습니다.
 - **심재영**: 백엔드 개발을 맡았습니다.
 - **박현춘**: 백엔드 개발을 맡았습니다.
 - **하태인**: 백엔드 개발을 맡았습니다.
