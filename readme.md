@@ -6,10 +6,9 @@
 
 ### 스마트한 투자의 시작, 당신의 주식 시장 네비게이터
 
-[![GitHub stars](https://img.shields.io/github/stars/codeparm/stock-project?style=social)](https://github.com/codeparm/stock-project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/codeparm/stock-project?style=social)](https://github.com/codeparm/stock-project/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/codeparm/stock-project)](https://github.com/codeparm/stock-project/issues)
-[![GitHub license](https://img.shields.io/github/license/codeparm/stock-project)](https://github.com/codeparm/stock-project/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Inkyu-Lee/TeamProject)](https://github.com/codeparm/stock-project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Inkyu-Lee/TeamProject)](https://github.com/codeparm/stock-project/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Inkyu-Lee/TeamProject)](https://github.com/codeparm/stock-project/issues)
 
 [프로젝트 소개](#-프로젝트-소개) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [시작하기](#-시작하기) • [기여하기](#-기여하기) • [라이선스](#-라이선스)
 
