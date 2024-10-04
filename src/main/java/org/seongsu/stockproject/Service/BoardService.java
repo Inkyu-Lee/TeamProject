@@ -17,12 +17,12 @@ public class BoardService {
         return boardRepository.selectArticle(id);
     }
 
-    public BoardDTO createArticle(BoardDTO article) {
-        return boardRepository.insertArticle(article);
+    public void createArticle(BoardDTO article) {
+        boardRepository.insertArticle(article);
     }
 
-    public BoardDTO updateArticle(BoardDTO article) {
-        return boardRepository.updateArticle(article);
+    public void updateArticle(BoardDTO article) {
+        boardRepository.updateArticle(article);
     }
 
     public void deleteArticle(Long id) {

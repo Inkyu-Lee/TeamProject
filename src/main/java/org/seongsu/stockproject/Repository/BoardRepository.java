@@ -8,8 +8,8 @@ import java.util.List;
 @Mapper
 public interface BoardRepository {
     BoardDTO selectArticle(Long id);
-    BoardDTO insertArticle(BoardDTO article);
-    BoardDTO updateArticle(BoardDTO article);
+    void insertArticle(BoardDTO article);
+    void updateArticle(BoardDTO article);
     void deleteArticle(Long id);
     List<BoardDTO> selectAllArticles();
 }

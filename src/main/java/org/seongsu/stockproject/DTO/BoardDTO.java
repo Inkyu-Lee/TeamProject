@@ -6,7 +6,6 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 public class BoardDTO {
 
     private Long id;
@@ -14,4 +13,13 @@ public class BoardDTO {
     private String description;
     private String nickname;
 
+    @Override
+    public String toString() {
+        return "BoardDTO{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", nickname='" + nickname + '\'' +
+                '}';
+    }
 }

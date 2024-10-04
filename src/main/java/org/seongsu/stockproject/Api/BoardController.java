@@ -16,16 +16,14 @@ import java.util.NoSuchElementException;
 @RequiredArgsConstructor
 public class BoardController {
 
-    private BoardService boardService;
+    private final BoardService boardService;
 
     @PostMapping("/article/create")
     public ResponseEntity<BoardDTO> createArticle(@RequestBody BoardDTO dto){
-        BoardDTO article = boardService.createArticle(dto);
+        System.out.println(dto.toString());
+        boardService.createArticle(dto);
 
-        if ( article == null ){
-            throw new NoSuchElementException("Article is null");
-        }
-        return ResponseEntity.status(HttpStatus.OK).body(article);
+        return ResponseEntity.status(HttpStatus.OK).build();
     }
 
     @DeleteMapping("/article/delete/{id}")
