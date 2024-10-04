@@ -1,0 +1,32 @@
+<mapper namespace="org.seongsu.stockproject.Repository.BoardRepository">
+
+    <resultMap id="articleResultMap" type="org.seongsu.stockproject.DTO.BoardDTO">
+        <id property="id" column="id"/>
+        <result property="title" column="title"/>
+        <result property="description" column="description"/>
+        <result property="nickname" column="nickname"/>
+    </resultMap>
+
+    <select id="selectArticle" resultMap="articleResultMap">
+        SELECT * FROM article_table WHERE id = #{id}
+    </select>
+
+    <insert id="insertArticle" parameterType="org.seongsu.stockproject.DTO.BoardDTO">
+        INSERT INTO article_table (title, description, nickname)
+        VALUES (#{title}, #{description}, #{nickname})
+    </insert>
+
+    <update id="updateArticle" parameterType="org.seongsu.stockproject.DTO.BoardDTO">
+        UPDATE article_table
+        SET title = #{title}, description = #{description}, nickname = #{nickname}
+        WHERE id = #{id}
+    </update>
+
+    <delete id="deleteArticle" parameterType="Long">
+        DELETE FROM article_table WHERE id = #{id}
+    </delete>
+
+    <select id="selectAllArticles" resultMap="articleResultMap">
+        SELECT * FROM article_table
+    </select>
+</mapper>
